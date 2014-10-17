@@ -1,5 +1,5 @@
 function employee(first, last, age, citizen, dept) {
-    this.first = fist;
+    this.first = first;
     this.last = last;
     this.age = age;
     this.citizen = citizen;
